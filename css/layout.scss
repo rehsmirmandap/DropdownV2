@@ -1,0 +1,33 @@
+ul.nav { 
+    display:none; 
+}
+#nav li a {
+    display:block; 
+    width:inherit; 
+    height:inherit;
+}
+#nav .nav li { 
+    width:100%; 
+    text-indent:10px; 
+    line-height:30px; 
+    margin-right:10px; 
+    border-top:1px #000 solid; 
+    border-bottom:1px #000 solid;
+    border-left:none; 
+    border-right:none; 
+    background:rgb(33, 86, 90);
+}
+li, li a {
+    color:rgb(255, 255, 255); 
+    
+}
+#nav li {
+    float:left; 
+    display:block; 
+    cursor:pointer; 
+    list-style:none; 
+    padding:0 10px 0 10px; 
+    border:1px #000 solid; 
+    position:relative;
+    background:rgb(33, 86, 90);
+}

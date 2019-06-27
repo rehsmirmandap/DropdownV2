@@ -1,0 +1,14 @@
+#nav, .nav, #nav .nav li { 
+    margin:0; 
+    padding:0; 
+    text-decoration:none;
+
+}
+#nav li ul.first {
+    left:-1px; 
+    top:100%;
+}
+
+ul.nav { 
+    display:none; 
+}

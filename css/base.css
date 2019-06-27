@@ -1,23 +1,17 @@
 #nav, .nav, #nav .nav li {
-	margin: 0;
-	padding: 0;
-	text-decoration: none;
-	font-family: Tahoma, Geneva, sans-serif;
-	alignment-adjust:auto;
-	font-size:25px;
-	
-	
+  margin: 0;
+  padding: 0;
+  text-decoration: none;
+  font-family: Tahoma, Geneva, sans-serif;
+  font-size: 25px;
 }
 
 #nav li ul.first {
   left: -1px;
   top: 100%;
-  
 }
 
 ul.nav {
   display: none;
 }
-
-
 /*# sourceMappingURL=base.css.map */

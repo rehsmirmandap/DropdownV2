@@ -1,5 +1,6 @@
 ul.nav { 
     display:none; 
+    
 }
 #nav li a {
     display:block; 
@@ -16,6 +17,7 @@ ul.nav {
     border-left:none; 
     border-right:none; 
     background:rgb(33, 86, 90);
+     
 }
 li, li a {
     color:rgb(255, 255, 255); 
@@ -30,4 +32,5 @@ li, li a {
     border:1px #000 solid; 
     position:relative;
     background:rgb(33, 86, 90);
+ 
 }
